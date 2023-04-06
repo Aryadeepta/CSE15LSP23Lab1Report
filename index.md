@@ -16,8 +16,11 @@ If you are asked about whether you want to connect, just say yes and move on (as
 Then enter your password. You will not be able to see what you are entering, but it is being written, its just an old way of entering psswords.
 If you think you accidentally wrote something you didn't mean to here, just spam backspace and try again.
 If you see the following line, you are logged in:
+
 ![Image](/loginSuccess.jpg)
+
 Otherwise, your password might me taking a while to reset, so wait and try again later
 ## Step 4: Have fun
 Here is some example commands you can run:
+
 ![Image](/commands.jpg)
