@@ -11,7 +11,7 @@ Then, use the accompanying [global password reset](https://sdacs.ucsd.edu/~icc/p
 You should get an email to your ucsd email to reset your password, and then you are good to go
 ## Step 3: SSH in VS Code
 Open VS Code, and open a new terminal
-enter 'ssh cs15lwi23*zz*@ieng6.ucsd.edu' (replace *zz* with your account name)
+enter `ssh cs15lwi23*zz*@ieng6.ucsd.edu` (replace *zz* with your account name)
 If you are asked about whether you want to connect, just say yes and move on (as you should with all things in life)
 Then enter your password. You will not be able to see what you are entering, but it is being written, its just an old way of entering psswords.
 If you think you accidentally wrote something you didn't mean to here, just spam backspace and try again.
