@@ -10,7 +10,8 @@ Click on your account (for CSE 15 students this quarter, this would begin with c
 Then, use the accompanying [global password reset](https://sdacs.ucsd.edu/~icc/password.php) tool to change your class account password (**NOT YOUR STUDENT ACCOUNT**)
 You should get an email to your ucsd email to reset your password, and then you are good to go
 ## Step 3: SSH in VS Code
-Open VS Code, and open a new terminal
+Open VS Code, and open a new terminal (As below)
+![Image](/NewTerminal.png)
 enter `ssh cs15lwi23zz@ieng6.ucsd.edu` (replace *zz* with your account name)
 If you are asked about whether you want to connect, just say yes and move on (as you should with all things in life)
 Then enter your password. You will not be able to see what you are entering, but it is being written, its just an old way of entering psswords.
