@@ -26,5 +26,12 @@ If you see the following line, you are logged in:
 Otherwise, your password might me taking a while to reset, so wait and try again later
 ## Step 4: Have fun
 Here is some example commands you can run:
-
+* `cd ~`: go to home directory
+* `ls`: Display subfolders of a directory
+  * add `-l` to use long-listing
+  * add `-a` to access all members of directory
+  * add `-t` to sort by time
+* combine (for instance, `-lat` displays the long-listed forms of all members of the directory sorted by time)
+* `cat`: will display the text of the inputted file
+* `logout`: log out of ieng6 account
 ![Image](/commands.jpg)
